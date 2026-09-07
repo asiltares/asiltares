@@ -1,25 +1,25 @@
-<h1 align="center">Selam, ben Asil 👋</h1>
+<h1 align="center">Hey, I'm Asil 👋</h1>
 
 <p align="center">
   <b>Full Stack Developer | FiveM Developer</b>
 </p>
 
 <p align="center">
-  Web arayüzleri, backend sistemleri, FiveM scriptleri ve özel yazılım çözümleri geliştiriyorum.
+  I work on both frontend and backend projects, while also building custom scripts and systems for FiveM.
   <br>
-  Temiz kod, düzenli yapı ve geliştirilebilir projeler üretmeye odaklanıyorum.
+  I usually focus on keeping my projects clean, understandable, and easy to improve later on.
 </p>
 
 ---
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-* 💻 React, HTML5, CSS3 ve JavaScript ile modern web arayüzleri geliştiriyorum.
-* ⚙️ Node.js, PHP ve JavaScript ile backend, API ve otomasyon sistemleri üzerinde çalışıyorum.
-* 🎮 Lua ile FiveM sunucuları için özel scriptler, sistemler ve roleplay mekanikleri geliştiriyorum.
-* 📦 QBCore / QBX altyapısı ile çalışıyorum.
-* 🛠️ Roleplay ve benzeri sunucular için altyapı, sistem, bot ve otomasyon çözümleri geliştiriyorum.
-* 🔧 Projelerimde sade, performanslı ve düzenli kod yapısına önem veriyorum.
+* 💻 I build web interfaces using React, HTML5, CSS3, and JavaScript.
+* ⚙️ I work with Node.js, PHP, and JavaScript for backend systems, APIs, and automation tools.
+* 🎮 I develop custom FiveM scripts and roleplay systems using Lua.
+* 📦 I mainly work with QBCore / QBX frameworks.
+* 🛠️ I build infrastructure, bots, management systems, and custom solutions for roleplay servers.
+* 🔧 I try to keep my code simple, organized, and performance-friendly.
 
 ---
 
@@ -33,7 +33,7 @@
       <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" alt="Frontend Skills" />
       <br><br>
       <sub>
-        React, HTML, CSS ve JavaScript ile modern, responsive ve kullanıcı odaklı web arayüzleri geliştiriyorum.
+        I build responsive web interfaces and frontend projects using React, HTML, CSS, and JavaScript.
       </sub>
     </td>
     <td align="center" width="33%">
@@ -42,7 +42,7 @@
       <img src="https://skillicons.dev/icons?i=nodejs,php,js,vscode&theme=dark" alt="Backend Skills" />
       <br><br>
       <sub>
-        Node.js, PHP ve JavaScript ile API, otomasyon ve sunucu taraflı sistemler geliştiriyorum.
+        I use Node.js, PHP, and JavaScript to build APIs, automation tools, and server-side systems.
       </sub>
     </td>
     <td align="center" width="33%">
@@ -52,7 +52,7 @@
       <img src="https://cdn.simpleicons.org/fivem/F40552" width="48" height="48" alt="FiveM" />
       <br><br>
       <sub>
-        Lua ile FiveM sunucuları için özel scriptler, sistemler ve roleplay mekanikleri geliştiriyorum.
+        I develop custom scripts, server systems, and roleplay mechanics for FiveM using Lua.
       </sub>
     </td>
   </tr>
@@ -60,35 +60,35 @@
 
 ---
 
-## 📌 Çalıştığım Alanlar
+## 📌 What I Work On
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3>🌐 Web Development</h3>
       <ul>
-        <li>Modern ve responsive web arayüzleri geliştiriyorum.</li>
-        <li>React tabanlı frontend projeleri üzerinde çalışıyorum.</li>
-        <li>HTML, CSS ve JavaScript ile performanslı yapılar oluşturuyorum.</li>
-        <li>Yönetim paneli ve dashboard sistemleri geliştiriyorum.</li>
+        <li>Responsive websites and web interfaces.</li>
+        <li>React-based frontend projects.</li>
+        <li>Web projects built with HTML, CSS, and JavaScript.</li>
+        <li>Admin panels, dashboards, and user panels.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3>🎮 FiveM Development</h3>
       <ul>
-        <li>Lua tabanlı özel FiveM scriptleri geliştiriyorum.</li>
-        <li>QBCore / QBX altyapı sistemleri ile çalışıyorum.</li>
-        <li>Roleplay sunucuları için özel mekanikler ve sistemler üretiyorum.</li>
-        <li>Sunucu altyapısı, otomasyon ve özel çözümler geliştiriyorum.</li>
+        <li>Custom FiveM scripts written in Lua.</li>
+        <li>QBCore / QBX based systems.</li>
+        <li>Custom mechanics and systems for roleplay servers.</li>
+        <li>Optimization and improvements for existing systems.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>🤖 Bot & Sistem Geliştirme</h3>
+      <h3>🤖 Bots & Systems</h3>
       <ul>
-        <li>Discord botları geliştiriyorum.</li>
-        <li>Ticket ve destek sistemleri hazırlıyorum.</li>
-        <li>Log ve moderasyon sistemleri geliştiriyorum.</li>
-        <li>Sunucu yönetim araçları ve otomasyon çözümleri üretiyorum.</li>
+        <li>Discord bots.</li>
+        <li>Ticket and support systems.</li>
+        <li>Logging, moderation, and permission systems.</li>
+        <li>Automation and server management tools.</li>
       </ul>
     </td>
   </tr>
@@ -96,24 +96,12 @@
 
 ---
 
-## 🔥 Aktif Projeler
+## 🛒 Asil Store
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏙️ Centralside Roleplay</h3>
-      <p>
-        Centralside Roleplay sunucusunda aktif olarak developerlik yapıyorum.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 Asil Store</h3>
-      <p>
-        Asil Store adı altında FiveM için aktif olarak scriptler geliştiriyorum.
-      </p>
-    </td>
-  </tr>
-</table>
+<p>
+  Asil Store is where I develop and publish my own FiveM scripts.
+  I mainly focus on creating useful, optimized, and configurable systems that can be easily integrated into different servers.
+</p>
 
 ---
 
@@ -140,5 +128,5 @@
 ---
 
 <p align="center">
-  <b>Code, fikirleri çalışan sistemlere dönüştürmenin en güçlü yoludur.</b>
+  <b>I'm usually either building something new or trying to improve something that already works.</b>
 </p>
